@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/90ead026-13d7-4daa-b33a-2dbbc3fe2adb/resourceGroups/dotnet-web/providers/Microsoft.Web/sites/blogs-83-tkr"
+}
