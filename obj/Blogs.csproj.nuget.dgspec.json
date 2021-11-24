@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\source\\Blogs\\Blogs.csproj": {}
+    "c:\\Users\\Owner\\source\\Blogs\\Blogs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\source\\Blogs\\Blogs.csproj": {
+    "c:\\Users\\Owner\\source\\Blogs\\Blogs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\source\\Blogs\\Blogs.csproj",
+        "projectUniqueName": "c:\\Users\\Owner\\source\\Blogs\\Blogs.csproj",
         "projectName": "Blogs",
-        "projectPath": "C:\\Users\\Owner\\source\\Blogs\\Blogs.csproj",
+        "projectPath": "c:\\Users\\Owner\\source\\Blogs\\Blogs.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\source\\Blogs\\obj\\",
+        "outputPath": "c:\\Users\\Owner\\source\\Blogs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config"

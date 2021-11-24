@@ -4,12 +4,17 @@ C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\appsettings.json
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Blogs.dll
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Blogs.runtimeconfig.json
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Blogs.pdb
+C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.Data.SqlClient.dll
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.dll
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.Identity.Client.dll
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Owner\source\Blogs\bin\Release\net5.0\publish\Microsoft.IdentityModel.Logging.dll

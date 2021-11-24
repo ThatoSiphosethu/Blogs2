@@ -67,3 +67,13 @@ C:\Users\Owner\source\Blogs\obj\Release\net5.0\Blogs.dll
 C:\Users\Owner\source\Blogs\obj\Release\net5.0\ref\Blogs.dll
 C:\Users\Owner\source\Blogs\obj\Release\net5.0\Blogs.pdb
 C:\Users\Owner\source\Blogs\obj\Release\net5.0\Blogs.genruntimeconfig.cache
+C:\Users\Owner\source\Blogs\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Owner\source\Blogs\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Owner\source\Blogs\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Owner\source\Blogs\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Owner\source\Blogs\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Owner\source\Blogs\obj\Release\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Owner\source\Blogs\obj\Release\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Owner\source\Blogs\obj\Release\net5.0\Razor\Views\Home\AddBlog.cshtml.g.cs
+C:\Users\Owner\source\Blogs\obj\Release\net5.0\Razor\Views\Home\AddPost.cshtml.g.cs
+C:\Users\Owner\source\Blogs\obj\Release\net5.0\Razor\Views\Home\BlogDetail.cshtml.g.cs
